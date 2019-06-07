@@ -1,1 +1,2 @@
 # comp-science
+# computer-science
